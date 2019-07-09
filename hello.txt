@@ -2,4 +2,4 @@ hello weilun
 
 upload
 
-push
+push 2
