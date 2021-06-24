@@ -1,3 +1,7 @@
 init
 
 m1
+dev1
+dev2
+
+after m1: dev3
